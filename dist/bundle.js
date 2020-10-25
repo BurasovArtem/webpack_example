@@ -1,0 +1,1 @@
+(()=>{var o={551:()=>{console.log("Header component")}},e={};function t(r){if(e[r])return e[r].exports;var s=e[r]={exports:{}};return o[r](s,s.exports,t),s.exports}(()=>{"use strict";t(551),console.log("123456"),new class{constructor(o){this.text=o}log(){console.log("App: ",this.text)}}("Hello men").log()})()})();
